@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaiCol
-- 👀 I’m interested in Pandas, Tentacles, and Coffee
+- 👀 I’m interested in Pandas, Games, and Coffee
 - 🌱 I’m currently learning about how to live my life and programming
 
 <!---
